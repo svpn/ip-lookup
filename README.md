@@ -1,8 +1,8 @@
 # IP Lookup Tool / VPN Privacy Check
 
-Low latency embeddable IP lookup tool, showing visitor information based on their connecting IP address.
+## Visit https://codesandbox.io/s/focused-bartik-zfnbe for embeddable iframe code and details.**
 
-**Visit https://codesandbox.io/s/focused-bartik-zfnbe for embeddable iframe code and details.**
+Low latency embeddable IP lookup tool, showing visitor information based on their connecting IP address.
 
 Embed the iframe into a website or app, or point your native Android / iOS app webview at https://svpn.com
 
