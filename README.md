@@ -4,7 +4,7 @@ Low latency embeddable IP lookup tool, showing visitor information based on thei
 
 Visit https://codesandbox.io/s/focused-bartik-zfnbe for code and docs.
 
-Embed the iframe into a website or app, or point your native app webview at https://svpn.com
+Embed the iframe into a website or app, or point your native Android / iOS app webview at https://svpn.com
 
 Headers are explicitly set to "X-Frame-Options": "ALLOW" to allow embedding.
 
