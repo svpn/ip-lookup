@@ -1,10 +1,10 @@
 # IP Lookup Tool / VPN Privacy Check
 
-## Visit https://codesandbox.io/s/focused-bartik-zfnbe for code and details.
+## Visit https://codesandbox.io/s/focused-bartik-zfnbe for details.
 
 Low latency embeddable IP lookup tool, showing visitor information based on their connecting IP address.
 
-Embed the iframe into a website or app, or point your native Android / iOS app webview at https://svpn.com
+Embed https://svpn.com into an iframe, or point your native Android / iOS app webview to the same URL.
 
 Headers are explicitly set to "X-Frame-Options": "ALLOW" to allow embedding.
 
