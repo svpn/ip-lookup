@@ -1,6 +1,6 @@
 # IP Lookup Tool / VPN Privacy Check
 
-## Visit https://codesandbox.io/s/focused-bartik-zfnbe for embeddable iframe code and details.**
+## Visit https://codesandbox.io/s/focused-bartik-zfnbe for code and details.
 
 Low latency embeddable IP lookup tool, showing visitor information based on their connecting IP address.
 
